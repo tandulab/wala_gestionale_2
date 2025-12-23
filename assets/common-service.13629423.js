@@ -1,0 +1,1 @@
+import{R as r}from"./index.5000a42e.js";class s{static async uploadFileToS3(a,t){const n=await t.arrayBuffer(),e=new Uint8Array(n);await new r().put(a,e,{headers:{"Content-Type":t.type,"Content-Length":e.length.toString()}})}}export{s as C};

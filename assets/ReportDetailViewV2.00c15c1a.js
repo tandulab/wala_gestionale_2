@@ -1,0 +1,1 @@
+import{_ as e,a,o}from"./index.5000a42e.js";const t={};function r(s,i){return o(),a("div")}const c=e(t,[["render",r],["__file","/Users/giacomo/Developer/tandu/wala/wala-gestionale-aziende/wala-gestionale-aziende/src/views/reports/ReportDetailViewV2.vue"]]);export{c as default};
