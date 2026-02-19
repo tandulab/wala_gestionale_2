@@ -1,0 +1,1 @@
+const t="/assets/user20741.svg",r="/assets/thumbs-up20741.svg",a="/assets/hourglass20741.svg",o="/assets/thumbs-down20741.svg",e=function(s){return s.params.id!==void 0?s.params.id:""};export{t as _,r as a,a as b,o as c,e as r};
